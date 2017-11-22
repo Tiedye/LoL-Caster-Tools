@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsdom": "^11.4.0"
+  },
+  "scripts": {
+    "parse-wiki": "node parse-wiki.js"
+  }
+}
